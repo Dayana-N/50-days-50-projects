@@ -2,8 +2,8 @@
 ### This course was created by Brad Traversy on [Udemy](https://www.udemy.com/course/50-projects-50-days/)
 The projects include:
 
- - 01	Expanding Cards	
- - 02	Progress Steps	
+ - 01	Expanding Cards	&check;
+ - 02	Progress Steps	&check;
  - 03	Rotating Navigation Animation	
  - 04	Hidden Search Widget	
  - 05	Blurry Loading	
