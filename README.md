@@ -5,7 +5,7 @@ The projects include:
  - 01	Expanding Cards	&check;
  - 02	Progress Steps	&check;
  - 03	Rotating Navigation Animation	&check;
- - 04	Hidden Search Widget	
+ - 04	Hidden Search Widget	&check;
  - 05	Blurry Loading	
  - 06	Scroll Animation	
  - 07	Split Landing Page	
