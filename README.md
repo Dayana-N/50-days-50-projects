@@ -6,7 +6,7 @@ The projects include:
  - 02	Progress Steps	&check;
  - 03	Rotating Navigation Animation	&check;
  - 04	Hidden Search Widget	&check;
- - 05	Blurry Loading	
+ - 05	Blurry Loading	 &check;
  - 06	Scroll Animation	
  - 07	Split Landing Page	
  - 08	Form Wave	
