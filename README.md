@@ -7,7 +7,7 @@ The projects include:
  - 03	Rotating Navigation Animation	&check;
  - 04	Hidden Search Widget	&check;
  - 05	Blurry Loading	 &check;
- - 06	Scroll Animation	
+ - 06	Scroll Animation	&check;
  - 07	Split Landing Page	
  - 08	Form Wave	
  - 09	Sound Board	
