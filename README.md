@@ -8,7 +8,7 @@ The projects include:
  - 04	Hidden Search Widget	&check;
  - 05	Blurry Loading	 &check;
  - 06	Scroll Animation	&check;
- - 07	Split Landing Page	
+ - 07	Split Landing Page	&check;
  - 08	Form Wave	
  - 09	Sound Board	
  - 10	Dad Jokes	

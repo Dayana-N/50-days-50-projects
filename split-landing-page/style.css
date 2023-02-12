@@ -5,6 +5,9 @@
     --right-bg-color: rgba(43, 43, 43, 0.8);
     --left-btn-hover-color: rgba(87, 84, 236, 1);
     --right-btn-hover-color: rgba(28, 122, 28, 1);
+    --hover-width: 75%;
+    --other-width: 25%;
+    --speed: 1000ms;
 }
 
 * {
@@ -55,14 +58,14 @@ h1 {
     background-color: var(--right-btn-hover-color);
     border-color: var(--right-btn-hover-color);
 }
-
+/* Main Container */
 .container {
     position: relative;
     width: 100%;
     height: 100%;
     background: #333;
 }
-
+/* Both divs in main container */
 .split {
     position: absolute;
     width: 50%;
@@ -76,7 +79,7 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/* Overlay colour  left side */
 .split.left::before {
     content: '';
     position: absolute;
@@ -91,11 +94,46 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+/* Overlay colour  right side */
 .split.right::before {
     content: '';
     position: absolute;
     width: 100%;
     height: 100%;
     background-color: var(--right-bg-color);
+}
+
+/* Set width on both divs based on the classes they have */
+.hover-left .left {
+    width: var(--hover-width);
+}
+
+.hover-left .right {
+    width: var(--other-width);
+}
+
+.hover-right .right {
+    width: var(--hover-width);
+}
+
+.hover-right .left {
+    width: var(--other-width);
+}
+
+/* Add transition */
+.split.right, .split.left, .split.right::before, .split.left::before {
+    transition: all var(--speed) ease-in-out;
+}
+
+/* Add media querie for screens under 800px */
+@media(max-width: 800px) {
+    h1 {
+        font-size: 2rem;
+        top: 30%;
+    }
+
+    .btn {
+        padding: 1.2rem;
+        width: 12rem;
+    }
 }
