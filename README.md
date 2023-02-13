@@ -9,7 +9,7 @@ The projects include:
  - 05	Blurry Loading	 &check;
  - 06	Scroll Animation	&check;
  - 07	Split Landing Page	&check;
- - 08	Form Wave	
+ - 08	Form Wave	&check;
  - 09	Sound Board	
  - 10	Dad Jokes	
  - 12	Faq Collapse	
