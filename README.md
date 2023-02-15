@@ -10,7 +10,7 @@ The projects include:
  - 06	Scroll Animation	&check;
  - 07	Split Landing Page	&check;
  - 08	Form Wave	&check;
- - 09	Sound Board	
+ - 09	Sound Board	&check;
  - 10	Dad Jokes	
  - 12	Faq Collapse	
  - 11	Event Keycodes	
