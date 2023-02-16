@@ -11,7 +11,7 @@ The projects include:
  - 07	Split Landing Page	&check;
  - 08	Form Wave	&check;
  - 09	Sound Board	&check;
- - 10	Dad Jokes	
+ - 10	Dad Jokes	&check;
  - 12	Faq Collapse	
  - 11	Event Keycodes	
  - 13	Random Choice Picker	
