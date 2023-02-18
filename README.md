@@ -12,9 +12,9 @@ The projects include:
  - 08	Form Wave	&check;
  - 09	Sound Board	&check;
  - 10	Dad Jokes	&check;
- - 12	Faq Collapse	
- - 11	Event Keycodes	
- - 13	Random Choice Picker	
+ - 12	Faq Collapse	&check;
+ - 11	Event Keycodes	&check;
+ - 13	Random Choice Picker	&check;
  - 14	Animated Navigation	
  - 15	Incrementing Counter	
  - 16	Drink Water	
