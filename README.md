@@ -15,7 +15,7 @@ The projects include:
  - 12	Faq Collapse	&check;
  - 11	Event Keycodes	&check;
  - 13	Random Choice Picker	&check;
- - 14	Animated Navigation	
+ - 14	Animated Navigation	 &check;
  - 15	Incrementing Counter	
  - 16	Drink Water	
  - 17	Movie App	
