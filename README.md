@@ -16,8 +16,8 @@ The projects include:
  - 11	Event Keycodes	&check;
  - 13	Random Choice Picker	&check;
  - 14	Animated Navigation	 &check;
- - 15	Incrementing Counter	
- - 16	Drink Water	
+ - 15	Incrementing Counter	&check;
+ - 16	Drink Water	  &check;
  - 17	Movie App	
  - 18	Background Slider	
  - 19	Theme Clock	
