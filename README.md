@@ -18,8 +18,8 @@ The projects include:
  - 14	Animated Navigation	 &check;
  - 15	Incrementing Counter	&check;
  - 16	Drink Water	  &check;
- - 17	Movie App	
- - 18	Background Slider	
+ - 17	Movie App	&check;
+ - 18	Background Slider	&check;
  - 19	Theme Clock	
  - 20	Button Ripple Effect	
  - 21	Drag N Drop	
