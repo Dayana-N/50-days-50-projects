@@ -6,22 +6,22 @@ The projects include:
 ![expanding cards](./images/expanding-cards.gif)
  - 02	Progress Steps	&check; <br>
 ![progress steps](./images/progress-steps.gif)
- - 03	Rotating Navigation Animation	&check;
+ - 03	Rotating Navigation Animation	&check; <br>
  ![rotating navigation](./images/rotating-navigation.gif)
- - 04	Hidden Search Widget	&check;
+ - 04	Hidden Search Widget	&check; <br>
   ![hidden search widget](./images/hidden-search-widget.gif)
- - 05	Blurry Loading	 &check;
+ - 05	Blurry Loading	 &check; <br>
   ![blurry loading](./images/blurry-loading.gif)
  - 06	Scroll Animation	&check;
  - 07	Split Landing Page	&check;
  - 08	Form Wave	&check;
  - 09	Sound Board	&check;
- - 10	Dad Jokes	&check;
- ![dad jokes](./images/dad-jokes.PNG)
+ - 10	Dad Jokes	&check; <br>
+ ![dad jokes](./images/dad-jokes.PNG) 
  - 12	Faq Collapse	&check;
  - 11	Event Keycodes	&check;
  - 13	Random Choice Picker	&check;
- - 14	Animated Navigation	 &check;
+ - 14	Animated Navigation	 &check; <br>
  ![animated navigation](./images/animated-navigation.gif)
  - 15	Incrementing Counter	&check;
  - 16	Drink Water	  &check;
